@@ -1,6 +1,6 @@
 # Acme Dashboard
 
-Täysimittainen laskujen hallintasovellus, rakennettu Next.js Learn -kurssin pohjalta.
+Yksinkertaistettu taloushallintasovellus, rakennettu Next.js Learn -kurssin pohjalta.
 
 ## Ominaisuudet
 
